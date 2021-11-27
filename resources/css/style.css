@@ -27,6 +27,10 @@ img {
   display: inline-block;
   margin: 20px 10px;
 }
+video {
+  display: inline-block;
+  margin: 20px 10px;
+}
 footer {
   text-align: right;
 }
